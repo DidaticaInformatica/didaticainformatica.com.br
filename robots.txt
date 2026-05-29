@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://didaticainformatica.github.io/didatica-informatica/sitemap.xml

@@ -1,0 +1,17 @@
+{
+  "name": "Didática Informática",
+  "short_name": "Didática",
+  "description": "Cursos presenciais de tecnologia em Capim Grosso-BA.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#061b5f",
+  "icons": [
+    {
+      "src": "assets/logo-didatica.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
