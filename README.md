@@ -21,7 +21,7 @@ assets/logo-didatica.png
 - Instagram: @didaticainf
 - Endereço: Centro de Capim Grosso, Avenida ACM, em cima do Banco do Brasil
 - Certificado: válido em todo o Brasil
-- Idade mínima: alunos a partir de 13 anos
+- Idade mínima: alunos a partir de 11 anos
 
 ## Como publicar no GitHub Pages
 
@@ -63,3 +63,20 @@ e troque pelo novo número em formato internacional, se necessário.
 - [x] Link para mapa
 - [x] Sem bibliotecas pesadas
 - [x] Sem dados sensíveis
+
+
+## Versão 2 lapidada
+
+Melhorias adicionadas:
+
+- Hero mais direto e mais focado em conversão.
+- Seção "Para quem é", deixando o público-alvo mais claro.
+- Seção "Como funciona", reduzindo dúvidas antes do WhatsApp.
+- FAQ mais completo.
+- CTA fixo no rodapé do celular.
+- Melhor fluxo de decisão: entender → escolher curso → chamar no WhatsApp.
+
+
+## Atualização de idade mínima
+
+- Idade mínima atualizada para alunos a partir de 11 anos.
